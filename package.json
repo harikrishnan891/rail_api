@@ -36,7 +36,7 @@
     "flatpickr": "^4.5.2",
     "fullcalendar": "^3.9.0",
     "jquery": "^3.3.1",
-    "moment": "^2.9.0",
+    "moment": "^2.29.2",
     "ng2-flatpickr": "^8.0.5",
     "ngx-chips": "^2.1.0",
     "nouislider": "^14.1.1",
